@@ -17,7 +17,7 @@ of sense in a gitHub repository (i.e. gitlab-ci.yml). I still felt like sharing 
 the live server is not running anymore. (For financial reasons :sweat_smile: :moneybag:)
 
 ## Impressions
-<img width="1283" alt="Bildschirmfoto 2022-11-01 um 09 20 19" src="https://user-images.githubusercontent.com/110164826/199197929-e546ddec-953d-4705-a120-64e308ab84f7.png"><br>
+<img width="1283" alt="Bildschirmfoto 2022-11-01 um 09 20 19" src="https://user-images.githubusercontent.com/110164826/199197929-e546ddec-953d-4705-a120-64e308ab84f7.png"><br><br>
 <img width="1284" alt="Bildschirmfoto 2022-11-01 um 09 20 50" src="https://user-images.githubusercontent.com/110164826/199197945-f5e5fcc5-b62e-44d7-8834-4799c806b214.png"><br>
 <img width="1284" alt="Bildschirmfoto 2022-11-01 um 09 22 03" src="https://user-images.githubusercontent.com/110164826/199197983-6c9ed7ba-6c0f-4a23-803c-e805c5067237.png"><br>
 <img width="1284" alt="Bildschirmfoto 2022-11-01 um 09 20 34" src="https://user-images.githubusercontent.com/110164826/199198004-f75cc8e5-a938-4478-97e0-15caecc2c7c4.png"><br>
