@@ -17,11 +17,10 @@ of sense in a gitHub repository (i.e. gitlab-ci.yml). I still felt like sharing 
 the live server is not running anymore. (For financial reasons :sweat_smile: :moneybag:)
 
 ## Impressions
+<img width="1283" alt="Bildschirmfoto 2022-11-01 um 09 20 19" src="https://user-images.githubusercontent.com/110164826/199197929-e546ddec-953d-4705-a120-64e308ab84f7.png"><br>
+<img width="1284" alt="Bildschirmfoto 2022-11-01 um 09 20 50" src="https://user-images.githubusercontent.com/110164826/199197945-f5e5fcc5-b62e-44d7-8834-4799c806b214.png"><br>
+<img width="1284" alt="Bildschirmfoto 2022-11-01 um 09 22 03" src="https://user-images.githubusercontent.com/110164826/199197983-6c9ed7ba-6c0f-4a23-803c-e805c5067237.png"><br>
+<img width="1284" alt="Bildschirmfoto 2022-11-01 um 09 20 34" src="https://user-images.githubusercontent.com/110164826/199198004-f75cc8e5-a938-4478-97e0-15caecc2c7c4.png"><br>
+<img width="1283" alt="Bildschirmfoto 2022-11-01 um 09 21 32" src="https://user-images.githubusercontent.com/110164826/199198029-ea73cf25-314f-434b-8ed8-9ac5980ffe51.png"><br>
+<img width="1284" alt="Bildschirmfoto 2022-11-01 um 09 21 09" src="https://user-images.githubusercontent.com/110164826/199198213-295b12cb-3484-4640-b8f4-f5d4be06b08a.png"><br>
 
-![Bildschirmfoto 2022-11-01 um 00 44 43](https://user-images.githubusercontent.com/110164826/199129875-1a95469d-360d-46e3-8cfc-7df498f7b634.png)
-
-![Bildschirmfoto 2022-11-01 um 00 44 55](https://user-images.githubusercontent.com/110164826/199129900-c3caaab7-5846-4c7f-9cbb-b822d86014aa.png)
-
-![Bildschirmfoto 2022-11-01 um 00 45 10](https://user-images.githubusercontent.com/110164826/199129905-2eefde3f-44f8-48a1-941d-ca042c7a2282.png)
-
-![Bildschirmfoto 2022-11-01 um 00 45 25](https://user-images.githubusercontent.com/110164826/199129912-4e890da4-dc99-42ce-9d2c-6db9b5bb1a79.png)
