@@ -1,4 +1,4 @@
-# Luna Restaurant Review Project
+# Luna Restaurant Review Project 🍝
 A restaurant review app. One week Group project at SIT Academy.
 
 ## Team
